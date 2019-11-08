@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /project.mobirise
+Sitemap: http://www.floryfood.ru/sitemap.xml
+Host: http://www.floryfood.ru
